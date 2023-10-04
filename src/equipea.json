@@ -1,0 +1,150 @@
+[
+    {
+        "id": 1,
+        "nom": "Daphnée",
+        "Points": 8.5,
+        "Rebonds": 7.5,
+        "Assists": 2.5,
+        "Pct": 33.3,
+        "% Lancer": 100,
+        "% à 3": 0,
+        "Steals": 0.5,
+        "Blocks": 1.5,
+        "Évaluation": 8.5      
+        
+    },
+    {
+        "id": 2,
+        "nom": "Julie",
+        "Points": 3,
+        "Rebonds": 2,
+        "Assists": 1.5,
+        "Pct": 50,
+        "% Lancer": 0,
+        "% à 3": 50,
+        "Steals": 0,
+        "Blocks": 0,
+        
+        "Évaluation": 5
+        
+    },
+    {
+        "id": 3,
+        "nom": "Coralie",
+        "Points": 6,
+        "Rebonds": 5.5,
+        "Assists": 3,
+        "Pct": 66.7,
+        "% Lancer": 0,
+        "% à 3": 0,
+        "Steals": 2,
+        "Blocks": 0.5,
+        
+        "Évaluation": 8.5
+        
+    },
+    {
+        "id": 4,
+        "nom": "Amandine",
+        "Points": 8.5,
+        "Rebonds": 7.5,
+        "Assists": 1,
+        "Steals": 3,
+        "Blocks": 0.5,
+        "Pct": 41.2,
+        "% Lancer": 60,
+        "% à 3": 0,
+       
+        "Évaluation": 13.5
+        
+    },
+    {
+        "id": 5,
+        "nom": "Jeanne A",
+        "Points": 2,
+        "Rebonds": 0.5,
+        "Assists": 3,
+        "Pct": 33.3,
+        "% Lancer": 0,
+        "% à 3": 0,
+        "Steals": 1,
+        "Blocks": 0,
+        
+        "Évaluation": 1  
+        
+    },
+    {
+        "id": 6,
+        "nom": "Maiana",
+        "Points": 1.5,
+        "Rebonds": 2.5,
+        "Assists": 0,
+        "Pct": 14.3,
+        "% Lancer": 50,
+        "% à 3": 0,
+        "Steals": 0.5,
+        "Blocks": 0.5,
+        
+        "Évaluation": -2
+        
+    },
+    {
+        "id": 7,
+        "nom": "Pauline",
+        "Points": 10.5,
+        "Rebonds": 9.5,
+        "Assists": 3.5,
+        "Pct": 45,
+        "% Lancer": 66.7,
+        "% à 3": 17,
+        "Steals": 6,
+        "Blocks": 0,
+        
+        "Évaluation": 19  
+        
+    },
+    {
+        "id": 8,
+        "nom": "Naia",
+        "Points": 2,
+        "Rebonds": 1,
+        "Assists": 0,
+        "Pct": 33.3,
+        "% Lancer": 0,
+        "% à 3": 0,
+        "Steals": 0,
+        "Blocks": 0,
+        
+        "Évaluation": 0  
+    },
+    {
+        "id": 9,
+        "nom": "Célia",
+        "Points": 11,
+        "Rebonds": 3.5,
+        "Assists": 2.5,
+        "Pct": 44.4,
+        "% Lancer": 25,
+        "% à 3": 0,
+        "Steals": 3.5,
+        "Blocks": 0.4,
+        
+        "Évaluation": 3  
+        
+    },
+    {
+        "id": 10,
+        "nom": "Jeanne",
+        "Points": 2.5,
+        "Rebonds": 1,
+        "Assists": 1,
+        "Pct": 14.3,
+        "% Lancer": 50,
+        "% à 3": 0,
+        "Steals": 1.5,
+        "Blocks": 0.5,
+        
+        "Évaluation": -0.5  
+        
+    }
+]
