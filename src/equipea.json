@@ -2,111 +2,111 @@
     {
         "id": 1,
         "nom": "Daphnée",
-        "Points": 8.5,
-        "Rebonds": 7.5,
-        "Assists": 2.5,
-        "Pct": 33.3,
-        "% Lancer": 100,
-        "% à 3": 0,
-        "Steals": 0.5,
-        "Blocks": 1.5,
-        "Évaluation": 8.5      
+        "Points": 7,
+        "Rebonds": 7.7,
+        "Assists": 2,
+        "Pct": 23.3,
+        "% Lancer": 75,
+        "% à 3": 11,
+        "Steals": 1,
+        "Blocks": 1,
+        "Évaluation": 5.7     
         
     },
     {
         "id": 2,
         "nom": "Julie",
-        "Points": 3,
-        "Rebonds": 2,
-        "Assists": 1.5,
-        "Pct": 50,
+        "Points": 2.7,
+        "Rebonds": 2.7,
+        "Assists": 1,
+        "Pct": 44.4,
         "% Lancer": 0,
-        "% à 3": 50,
-        "Steals": 0,
+        "% à 3": 33.3,
+        "Steals": 0.3,
         "Blocks": 0,
         
-        "Évaluation": 5
+        "Évaluation": 4.7
         
     },
     {
         "id": 3,
         "nom": "Coralie",
-        "Points": 6,
-        "Rebonds": 5.5,
+        "Points": 7.7,
+        "Rebonds": 7,
         "Assists": 3,
-        "Pct": 66.7,
-        "% Lancer": 0,
+        "Pct": 50,
+        "% Lancer": 58.3,
         "% à 3": 0,
-        "Steals": 2,
-        "Blocks": 0.5,
+        "Steals": 2.3,
+        "Blocks": 0.3,
         
-        "Évaluation": 8.5
+        "Évaluation": 10.3
         
     },
     {
         "id": 4,
         "nom": "Amandine",
-        "Points": 8.5,
-        "Rebonds": 7.5,
-        "Assists": 1,
-        "Steals": 3,
-        "Blocks": 0.5,
-        "Pct": 41.2,
-        "% Lancer": 60,
+        "Points": 9,
+        "Rebonds": 8,
+        "Assists": 2.3,
+        "Steals": 3.3,
+        "Blocks": 0.3,
+        "Pct": 44,
+        "% Lancer": 71.4,
         "% à 3": 0,
        
-        "Évaluation": 13.5
+        "Évaluation": 16.7
         
     },
     {
         "id": 5,
         "nom": "Jeanne A",
         "Points": 2,
-        "Rebonds": 0.5,
-        "Assists": 3,
-        "Pct": 33.3,
+        "Rebonds": 0.7,
+        "Assists": 0,
+        "Pct": 25,
         "% Lancer": 0,
         "% à 3": 0,
-        "Steals": 1,
+        "Steals": 0.7,
         "Blocks": 0,
         
-        "Évaluation": 1  
+        "Évaluation": 1.7  
         
     },
     {
         "id": 6,
         "nom": "Maiana",
-        "Points": 1.5,
-        "Rebonds": 2.5,
+        "Points": 1,
+        "Rebonds": 2.3,
         "Assists": 0,
-        "Pct": 14.3,
+        "Pct": 9.1,
         "% Lancer": 50,
         "% à 3": 0,
-        "Steals": 0.5,
-        "Blocks": 0.5,
+        "Steals": 0.3,
+        "Blocks": 0.3,
         
-        "Évaluation": -2
+        "Évaluation": -1.3
         
     },
     {
         "id": 7,
         "nom": "Pauline",
-        "Points": 10.5,
-        "Rebonds": 9.5,
-        "Assists": 3.5,
-        "Pct": 45,
-        "% Lancer": 66.7,
-        "% à 3": 17,
-        "Steals": 6,
+        "Points": 12.3,
+        "Rebonds": 8,
+        "Assists": 2.7,
+        "Pct": 40.5,
+        "% Lancer": 71.4,
+        "% à 3": 22,
+        "Steals": 5.3,
         "Blocks": 0,
         
-        "Évaluation": 19  
+        "Évaluation": 16.3  
         
     },
     {
         "id": 8,
         "nom": "Naia",
-        "Points": 2,
+        "Points": 0.7,
         "Rebonds": 1,
         "Assists": 0,
         "Pct": 33.3,
@@ -115,36 +115,36 @@
         "Steals": 0,
         "Blocks": 0,
         
-        "Évaluation": 0  
+        "Évaluation": 0.3  
     },
     {
         "id": 9,
         "nom": "Célia",
-        "Points": 11,
-        "Rebonds": 3.5,
-        "Assists": 2.5,
-        "Pct": 44.4,
+        "Points": 8.3,
+        "Rebonds": 3,
+        "Assists": 3,
+        "Pct": 31,
         "% Lancer": 25,
         "% à 3": 0,
-        "Steals": 3.5,
-        "Blocks": 0.4,
+        "Steals": 2.7,
+        "Blocks": 0.3,
         
-        "Évaluation": 3  
+        "Évaluation": -1  
         
     },
     {
         "id": 10,
         "nom": "Jeanne",
-        "Points": 2.5,
+        "Points": 2.3,
         "Rebonds": 1,
-        "Assists": 1,
-        "Pct": 14.3,
-        "% Lancer": 50,
+        "Assists": 0.7,
+        "Pct": 10,
+        "% Lancer": 75,
         "% à 3": 0,
-        "Steals": 1.5,
-        "Blocks": 0.5,
+        "Steals": 1.3,
+        "Blocks": 0.3,
         
-        "Évaluation": -0.5  
+        "Évaluation": 0  
         
     }
 ]
